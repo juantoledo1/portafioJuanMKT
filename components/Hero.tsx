@@ -1,5 +1,5 @@
 import React from 'react';
-import { Download, Mail, ArrowRight } from 'lucide-react';
+import { Mail, ArrowRight } from 'lucide-react';
 
 const Hero: React.FC = () => {
   const scrollToProjects = (e: React.MouseEvent<HTMLAnchorElement>) => {
@@ -48,18 +48,9 @@ const Hero: React.FC = () => {
           </a>
           
           <a 
-            href="/Juan_Manuel_Toledo_CV.pdf" 
-            download="Juan_Manuel_Toledo_CV.pdf"
-            className="px-8 py-4 bg-transparent border-2 border-brand-gray/30 hover:border-brand-cyan text-brand-white rounded-lg font-semibold transition-all duration-300 flex items-center justify-center gap-2 hover:bg-brand-cyan/5 cursor-pointer"
-          >
-            <Download className="w-5 h-5" />
-            Descargar CV
-          </a>
-
-          <a 
             href="#contact" 
             onClick={scrollToContact}
-            className="px-8 py-4 bg-brand-card hover:bg-brand-card/80 text-brand-cyan rounded-lg font-semibold transition-all duration-300 flex items-center justify-center gap-2 cursor-pointer"
+            className="px-8 py-4 bg-brand-card hover:bg-brand-card/80 text-brand-cyan rounded-lg font-semibold transition-all duration-300 flex items-center justify-center gap-2 cursor-pointer border border-brand-cyan/20"
           >
             <Mail className="w-5 h-5" />
             Contacto

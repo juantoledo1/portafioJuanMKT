@@ -46,8 +46,7 @@ const Contact: React.FC = () => {
               Hablemos de tu próximo <span className="text-brand-cyan">proyecto</span>
             </h2>
             <p className="text-brand-gray text-lg mb-8">
-              ¿Necesitás una web que venda y proteja? ¿Querés optimizar tu estrategia comercial? 
-              Estoy disponible para nuevas oportunidades y colaboraciones.
+              ¿Necesitás un aumento de ventas, un rediseño de marketing o una estrategia comercial clara? Estoy disponible para ayudarte a construir una web que venda y proteja tu negocio. Contactame para evaluar nuevas oportunidades y empezar a optimizar tu presencia digital.
             </p>
             
             <div className="space-y-6">

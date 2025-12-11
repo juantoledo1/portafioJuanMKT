@@ -30,7 +30,7 @@ const Hero: React.FC = () => {
         </h1>
         
         <h2 className="text-xl sm:text-2xl md:text-3xl text-brand-gray mb-8 font-light max-w-4xl">
-          Ventas · Gestión Comercial · Marketing Digital
+          Ventas · Estrategias Comerciales · Marketing Digital
         </h2>
         
         <p className="text-lg text-brand-gray max-w-2xl mb-10 leading-relaxed">

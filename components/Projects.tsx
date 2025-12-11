@@ -37,7 +37,7 @@ const Projects: React.FC = () => {
       category: "Venta de Sistemas & Landing",
       description: "Soluciones de desarrollo web para venta de landing pages y sistemas a medida. Optimización para conversión y presencia digital.",
       tech: ["Astro", "Desarrollo Web", "Ventas B2B"],
-      link: "", // Si tienes el link, agrégalo aquí entre las comillas.
+      link: "https://tekohatech.netlify.app/",
       // Coding/Web Development setup image
       image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1000&auto=format&fit=crop"
     }

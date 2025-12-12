@@ -16,12 +16,12 @@ const Projects: React.FC = () => {
     },
     {
       title: "Paliachi Helados",
-      category: "Rediseño Web & Marca",
+      category: "Rediseño Web",
       description: "Rediseño de experiencia de usuario (UX/UI) para mejorar la visibilidad online y la captación de clientes de la heladería.",
       tech: ["WordPress", "UX/UI", "SEO Local"],
       link: "https://paliachi.com",
-      // Ice cream / Food business image
-      image: "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=1000&auto=format&fit=crop"
+      // Popsicles / Paletas image (Updated with working URL)
+      image: "https://images.unsplash.com/photo-1488900128323-21503983a07e?q=80&w=1000&auto=format&fit=crop"
     },
     {
       title: "Betelgeuse Hub",
